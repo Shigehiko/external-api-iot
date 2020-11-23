@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.kanden.iot.externalapi.NatureRemoApiAutoConfiguration
